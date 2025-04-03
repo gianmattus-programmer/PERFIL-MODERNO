@@ -6,7 +6,7 @@
 ¡Hola! 👋 Este es un proyecto que demuestra un diseño moderno de tarjetas UI utilizando HTML, CSS y JavaScript.
 
 ## 📱 Vista Previa
-![Diseño de Tarjeta Moderna](screenshot.jpg)
+![Diseño de Tarjeta Moderna](screenshot.png)
 
 ## 🚀 Características Principales
 - Diseño responsivo y moderno
