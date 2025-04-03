@@ -22,7 +22,7 @@
 ## 📫 Contacto
 ¿Tienes preguntas o sugerencias? ¡No dudes en contactarme!
 - GitHub: [@gianmattus-programmer](https://github.com/gianmattus-programmer)
-- Email: tu.email@ejemplo.com
+- Email: chavezmattus@gmail.com
 
 ## 📄 Licencia
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
